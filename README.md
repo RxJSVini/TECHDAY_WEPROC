@@ -146,7 +146,8 @@ EXPOSE 80
 ```
 
 Build e Execução:
+
 ```bash
 elliot01$ docker image build -t nginx:proc container-nginx/
 elliot01$ docker container run -d -p 80:80 nginx:proc
-```"# TECHDAY_WEPROC" 
+``` 
