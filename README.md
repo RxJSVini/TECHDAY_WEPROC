@@ -1,4 +1,4 @@
-Projeto usado no evento 12/08/2023 da Gotobiz/Processor. Apresentação sobre Containers e MicroServiços
+Projeto usado no evento 12/08/2023 da Gotobiz/Processor. Apresentação sobre Containers e Micro Serviços
 
 ## Container para PHP com Apache
 
